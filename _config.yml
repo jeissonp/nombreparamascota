@@ -5,7 +5,7 @@ description: "Es el lugar ideal para encontrar el nombre perfecto para tu compa√
 logo: 'assets/images/logo-nombre-para-mascota-footprint.jpg'
 favicon: 'assets/images/logo-nombre-para-mascota-footprint.jpg'
 baseurl: /
-google_analytics: 'UA-46278016-1'
+google_analytics: 'G-0FQ6L9J3YM'
 disqus: 'demowebsite'
 mailchimp-list: false
 include: ["_pages"]
