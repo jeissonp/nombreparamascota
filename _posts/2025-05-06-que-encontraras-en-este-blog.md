@@ -3,7 +3,7 @@ layout: post
 title:  "Bienvenidos a NombreParaMascota.com"
 author: admin
 categories: [ Blog ]
-tags: [red, yellow]
+tags: [mascotas, blog]
 image: assets/images/dogs-4477058_1280.jpg
 description: "Elegir el nombre perfecto para tu mascota puede ser una de las decisiones más emocionantes"
 featured: true
