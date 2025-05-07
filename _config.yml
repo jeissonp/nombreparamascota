@@ -2,8 +2,8 @@
 name: "NombreParaMascota"
 title: "NombreParaMascota"
 description: "Es el lugar ideal para encontrar el nombre perfecto para tu compañero peludo, escamoso o emplumado. Ya sea que tengas un perro, gato, pez, ave, conejo o cualquier otra mascota, aquí descubrirás miles de ideas originales, significativas y divertidas para nombrarla. Además, te ofrecemos consejos, significados, tendencias y listas temáticas que harán que elegir un nombre sea una experiencia única y especial."
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+logo: 'assets/images/logo-nombre-para-mascota-footprint.jpg'
+favicon: 'assets/images/logo-nombre-para-mascota-footprint.jpg'
 baseurl: /
 google_analytics: 'UA-46278016-1'
 disqus: 'demowebsite'
