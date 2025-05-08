@@ -4,7 +4,7 @@ title:  "Los Nombres Más Comunes para Mascotas en Colombia y su Significado"
 author: admin
 categories: [ Blog ]
 tags: [colombia, nombres, mascotas, comunes]
-image: assets/images/dog-5883275_1280.jpg
+image: assets/images/puppy-7115562_1280.jpg
 description: "Descubre los nombres más usados para mascotas en Colombia y por qué son tan populares."
 featured: true
 ---
