@@ -47,7 +47,7 @@ Los gatos son animales misteriosos y elegantes, y sus nombres suelen reflejar es
 1. **Observa su personalidad**: Los gatos tienen caracteres muy definidos
 2. **Considera su apariencia**: El pelaje, color y rasgos pueden inspirar el nombre
 3. **Sonoridad**: El nombre debe ser fácil de pronunciar
-4. **Longitud**: Los nombres cortos son más fáciles de recordar
+4. **Longitud**: Los nombres cortos son más fáciles de recordar.
 
 ---
 
