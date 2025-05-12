@@ -47,7 +47,7 @@ Los peces son mascotas fascinantes que traen calma y belleza a nuestros hogares.
 1. **Observa su comportamiento**: Cada pez tiene su propia personalidad
 2. **Considera su color**: El color puede inspirar el nombre
 3. **Tamaño**: El tamaño del pez puede influir en el nombre
-4. **Especie**: Algunas especies tienen nombres característicos
+4. **Especie**: Algunas especies tienen nombres característicos.
 
 ---
 
