@@ -7,7 +7,6 @@ tags: [colombia]
 description: "Política de Privacidad"
 featured: false
 ---
-# Política de Privacidad
 **Última actualización: 12 de mayo de 2025**
 
 La presente Política de Privacidad establece los términos en que **nombreparamascota.com** (en adelante, el “Sitio”) protege la información que es proporcionada por sus usuarios al utilizar este sitio web, de acuerdo con lo establecido en la Ley 1581 de 2012, el Decreto 1377 de 2013 y demás normas concordantes de la legislación colombiana.
