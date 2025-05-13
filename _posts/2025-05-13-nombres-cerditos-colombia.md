@@ -55,7 +55,7 @@ Los cerditos son mascotas inteligentes y cariñosas que han ganado popularidad e
 - Tienen una excelente memoria
 - Son muy sociables y cariñosos
 - Pueden aprender trucos como los perros
-- Tienen una personalidad única
+- Tienen una personalidad única.
 
 ---
 
