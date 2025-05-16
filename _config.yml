@@ -6,6 +6,7 @@ logo: 'assets/images/logo-nombre-para-mascota-footprint.jpg'
 favicon: 'assets/images/logo-nombre-para-mascota-footprint.jpg'
 baseurl: /
 google_analytics: 'G-0FQ6L9J3YM'
+google_ads: 'ca-pub-5463145385158070'
 disqus: 'nombreparamascota'
 mailchimp-list: false
 include: ["_pages"]
