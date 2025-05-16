@@ -24,7 +24,7 @@ Latinoamérica es una región rica en diversidad cultural, y esto se refleja en 
 - **Negro**: Por el color del pelaje
 - **Bobby**: Nombre clásico
 - **Lobo**: Por su apariencia
-- **Princesa**: Para hembras
+- **Princesa**: Para hembras.
 
 ### Nombres Populares para Gatos
 - **Michi**: Término cariñoso para gato
