@@ -19,7 +19,7 @@ Estas mascotas son:
 - Siempre activas
 - Les encanta jugar
 - Muy sociables
-- Llenas de energía
+- Llenas de energía.
 
 **Nombres Sugeridos:**
 - Burbuja
