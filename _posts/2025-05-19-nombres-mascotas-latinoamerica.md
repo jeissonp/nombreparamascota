@@ -76,7 +76,7 @@ Latinoamérica es una región rica en diversidad cultural, y esto se refleja en 
 - **Canela**: Por el color
 - **Lucky**: Por la suerte
 - **Max**: Nombre corto
-- **Pepito**: Tradicional
+- **Pepito**: Tradicional.
 
 ### Nombres Populares para Gatos
 - **Michi**: Término cariñoso
